@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/target
+.class
+.idea
+mvnw
+mvnw.cmd
+.mvn
+
+/viewsvelte/node_modules/
+/viewsvelte/public/build/
